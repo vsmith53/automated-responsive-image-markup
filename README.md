@@ -1,0 +1,1 @@
+# automated-responsive-image-markup
